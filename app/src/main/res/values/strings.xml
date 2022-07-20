@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">05. Android Pemula</string>
+    <string name="nama_mobil">Nama Mobil</string>
+    <string name="detail_mobil">Detail Mobil</string>
+    <string name="harga_sewa">Harga Sewa</string>
+    <string name="spesifikasi_mobil">Spesifikasi Mobil</string>
+    <string name="kapasitas">Kapasitas Mobil</string>
+    <string name="konten_kapasitas">Konten Kapasitas</string>
+    <string name="tranmisi">Tranmisi</string>
+    <string name="konten_tranmisi">Konten Tranmisi</string>
+    <string name="bahan_bakar">Bahan Bakar</string>
+    <string name="konten_bahan_bakar">Konten Bahan Bakar</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="konten_keterangan">Konten Keterangan</string>
+    <string name="about">About</string>
+    <string name="detail_car">Detail Car</string>
+</resources>

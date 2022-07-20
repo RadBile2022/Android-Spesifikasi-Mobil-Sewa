@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Radar/AndroidStudioProjects/05AndroidPemula/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1065" />
+        <entry key="..\:/Users/Radar/AndroidStudioProjects/05AndroidPemula/app/src/main/res/layout/about.xml" value="0.22" />
+        <entry key="..\:/Users/Radar/AndroidStudioProjects/05AndroidPemula/app/src/main/res/layout/activity_about.xml" value="0.3353413654618474" />
+        <entry key="..\:/Users/Radar/AndroidStudioProjects/05AndroidPemula/app/src/main/res/layout/activity_car.xml" value="0.22" />
+        <entry key="..\:/Users/Radar/AndroidStudioProjects/05AndroidPemula/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Radar/AndroidStudioProjects/05AndroidPemula/app/src/main/res/layout/activity_main_detail.xml" value="0.22" />
+        <entry key="..\:/Users/Radar/AndroidStudioProjects/05AndroidPemula/app/src/main/res/layout/item_row_pasien.xml" value="0.22" />
+        <entry key="..\:/Users/Radar/AndroidStudioProjects/05AndroidPemula/app/src/main/res/menu/main_menu.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
